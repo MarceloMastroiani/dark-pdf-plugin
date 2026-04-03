@@ -1,0 +1,4 @@
+.dark-pdf-mode .pdfViewer .page canvas,
+.dark-pdf-mode .pdfViewer .page .textLayer {
+  filter: invert(1) hue-rotate(180deg) brightness(0.8) contrast(0.85) sepia(0.1);
+}

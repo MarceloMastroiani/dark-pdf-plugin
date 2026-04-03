@@ -1,11 +1,10 @@
 {
-  "id": "dark-pdf-plugin",
-  "name": "Dark PDF Plugin",
+  "id": "dark-pdf",
+  "name": "Dark PDF",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "Automatically converts PDFs to dark mode in your vault.",
   "author": "Marcelo Mastroiani",
   "authorUrl": "https://github.com/MarceloMastroiani",
-  "isDesktopOnly": false,
-  "main": "main.js"
+  "isDesktopOnly": false
 }
